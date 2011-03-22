@@ -11,6 +11,7 @@ Homepage: http://packages.python.org/python-quantities
 Package: python-quantities
 Architecture: all
 Depends: ${python:Depends}, ${misc:Depends}, python-numpy (>=1.4.0)
+Suggests: python-quantities-doc
 Provides: ${python:Provides}
 Description: Support for physical quantities with units, based on numpy
  Quantities is designed to handle arithmetic and
