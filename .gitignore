@@ -2,3 +2,6 @@
 quantities.egg-info
 build
 dist
+*.swp
+doc/_build/
+doc/_static/
